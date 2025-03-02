@@ -1,5 +1,5 @@
 # segway-battery-diagnostics-V3
-A segway battery diagnostics with GUI V2 version Forked from martinbogo/pt-battery-diagnostics
+A segway battery diagnostics with GUI V2 version Forked from [martinbogo/pt-battery-diagnostics](https://github.com/martinbogo/pt-battery-diagnostics)
 
 所需设备：
 1、Arduino（UNO或mega 2560均可，我选的2560是因为它可以把3.5寸TFT彩屏直接插到主板上，而且我设计的3D外壳也是mega2560的尺寸）
